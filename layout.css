@@ -1,0 +1,128 @@
+#header{
+    background-color: blue;
+    padding: 5px 40px ;
+    width: 50%;
+    
+}
+.f{
+    margin: 2%;
+    padding: 5px 5px;
+    width: 10%;
+    display: inline-flex;
+
+}
+
+.g{
+    padding: 5px 5px;
+    width: 10%;
+    display: inline-flex;
+    margin: 2% 2% 2% 25%;
+
+}
+.k{
+    background-color: lightgrey;
+    padding: 8px 5px;
+    width: 10%;
+    display: inline-flex;
+    margin: 3% 5% 2% 2%;
+
+}
+
+
+button{
+    background-color: rgb(151,150,150);
+    display: inline-block;
+    border: none;
+    border-radius: 2px;
+    padding: 12px 15px;
+    width: 50%;
+
+  }
+ #button2{
+      background-color:lightgray ;
+      color: rgb(168, 167, 167);
+      display: inline-flex;
+      padding: 3px 12px;
+      border: none;
+      border-radius: 2px;
+  }
+  .h{
+    display: inline-block;
+    color: white;
+    border-radius: 2px;
+    padding: 9px 2px;
+    width: 15%;
+    margin:1% 1% 0% 2%;
+
+  }
+
+  .p{
+      background-color: rgb(179, 177, 177);
+    display: inline-block;
+    color: white;
+    border-radius: 5px;
+    padding: 12px 15px;
+    width: 35%;
+margin-left: 1% ;
+  }
+
+#nav{
+background-color:lightgrey ;
+    display: inline-flex;
+    width: 50%;
+    padding: 10px;
+    margin: 2% auto;
+     
+}
+.b{
+    margin:2%;
+
+}
+
+.row{
+    display: flex;
+    
+}
+.col{
+    flex-basis: 25%;
+}
+    .section1{
+    width:80%;
+    height:150px;
+    background-color: rgb(151, 150, 150);
+    padding:40px;
+    margin-left:5%;
+}
+
+.row2{
+    background-color: rgb(151, 150, 150);
+    width: 80%;
+    height:95px;
+    padding:5px;
+    margin: 0 0 8% 25%;
+    display: block;
+}
+/* #section1{
+    width:50%;
+    height:125px;
+    background-color: rgb(151, 150, 150);
+    padding:40px;
+} */
+
+/* #section{
+    background-color: rgb(151, 150, 150);
+    width: 30%;
+    height:90px;
+    padding:5px;
+    margin: 10%;
+}
+#section2{
+    background-color: rgb(151, 150, 150);
+    width:30%;
+    height:90px;
+    padding:px;
+    margin: 10%;
+
+} */
+    
+
