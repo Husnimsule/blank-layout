@@ -1,13 +1,14 @@
 #header{
-    background-color: blue;
+    background-color: #05526A;;
     padding: 5px 40px ;
-    width: 50%;
+    width: 60%;
     
 }
 .f{
     margin: 2%;
     padding: 5px 5px;
     width: 10%;
+    height: 2vh;
     display: inline-flex;
 
 }
@@ -17,12 +18,15 @@
     width: 10%;
     display: inline-flex;
     margin: 2% 2% 2% 25%;
+    height: 2vh;
 
 }
 .k{
-    background-color: lightgrey;
+    background-color: #CFD5D8;;
     padding: 8px 5px;
     width: 10%;
+    height: 3vh;
+    
     display: inline-flex;
     margin: 3% 5% 2% 2%;
 
@@ -30,7 +34,7 @@
 
 
 button{
-    background-color: rgb(151,150,150);
+    background-color: #CFD5D8;
     display: inline-block;
     border: none;
     border-radius: 2px;
@@ -39,7 +43,7 @@ button{
 
   }
  #button2{
-      background-color:lightgray ;
+      background-color:#CFD5D8 ;
       color: rgb(168, 167, 167);
       display: inline-flex;
       padding: 3px 12px;
@@ -49,7 +53,7 @@ button{
   .h{
     display: inline-block;
     color: white;
-    border-radius: 2px;
+    border-radius: 5px;
     padding: 9px 2px;
     width: 15%;
     margin:1% 1% 0% 2%;
@@ -57,7 +61,7 @@ button{
   }
 
   .p{
-      background-color: rgb(179, 177, 177);
+      background-color: #CFD5D8;
     display: inline-block;
     color: white;
     border-radius: 5px;
@@ -67,7 +71,7 @@ margin-left: 1% ;
   }
 
 #nav{
-background-color:lightgrey ;
+background-color:#ECECEC;
     display: inline-flex;
     width: 50%;
     padding: 10px;
@@ -76,6 +80,8 @@ background-color:lightgrey ;
 }
 .b{
     margin:2%;
+    background-color: #c0c0c0;
+    border-radius: 10px;
 
 }
 
@@ -88,16 +94,16 @@ background-color:lightgrey ;
 }
     .section1{
     width:80%;
-    height:150px;
-    background-color: rgb(151, 150, 150);
+    height:160px;
+    background-color: #CED4D6;
     padding:40px;
     margin-left:5%;
 }
 
 .row2{
-    background-color: rgb(151, 150, 150);
+    background-color: #CED4D6;
     width: 80%;
-    height:95px;
+    height:100px;
     padding:5px;
     margin: 0 0 8% 25%;
     display: block;
